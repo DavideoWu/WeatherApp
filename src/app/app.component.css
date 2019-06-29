@@ -1,0 +1,17 @@
+h1 {
+    color: #369;
+    font-family: Georgia;
+    font-size: 300%;
+}
+
+button {
+    background-color: #369;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-family: Helvetica;
+    cursor: pointer;
+    cursor: hand;
+}
+
+body { background-color: black; }
